@@ -8,8 +8,8 @@ protected:
 	string name;
 	int age, weight;
 public:
-	void setData();
-	void getData();
+    void setData();
+	virtual void getData();
 
 };
 class Tiger :public Cat
@@ -19,6 +19,7 @@ public:
 	Tiger(int);
 	~Tiger();
 	void show_length();
+	virtual void getData();
 private:
 	int length;
 

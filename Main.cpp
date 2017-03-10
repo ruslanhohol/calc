@@ -13,6 +13,13 @@ void Cat::getData()
 	cout << " Age=" << age << endl;
 	cout << " Weight=" << weight << endl;
 }
+void Tiger::getData()
+{
+	cout << "This is a Tiger" << endl;
+	cout << " Name=" << name << endl;
+	cout << " Age=" << age << endl;
+	cout << " Weight=" << weight << endl;
+}
 
 	Tiger::Tiger(int input)
 	{
@@ -20,7 +27,7 @@ void Cat::getData()
 	}
 	void Tiger::show_length()
 	{
-		cout << length << endl;
+		cout << "Lenght="<<length << endl;
 	}
 
 	Tiger::Tiger()
@@ -31,6 +38,4 @@ void Cat::getData()
 	Tiger::~Tiger()
 	{
 	}
-
-
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

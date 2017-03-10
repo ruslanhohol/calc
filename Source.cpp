@@ -7,8 +7,11 @@ int main()
 	Tiger alex;
 	alex.setData();
 	alex.getData();
+	alex.show_length();
 	vasya.setData();
 	vasya.getData();
-	return 0;
 
+	system("pause");
+	return 0;
+	
 }
