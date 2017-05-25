@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.353,C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\kalkul\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\kalkul\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\kalkul\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\kalkul\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,=C:\Documents and Settings\maks\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
